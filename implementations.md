@@ -30,7 +30,7 @@ Hardware or software that receives ASID messages and renders SID audio.
 | [Elektron SidStation](https://www.elektron.se/legacy) | Hardware | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | Original ASID implementation |
 | [Twisted Electrons TherapSID](https://www.twistedelectrons.com/therapsid) | Hardware | ❌  | ✅  | ❌ | ✅ | ❌ | ❌ | ❌ | ✅ | Needs Turbo MIDI interface for Multi-SID and OPL-FM|
 | [TeensyROM](https://github.com/SensoriumEmbedded/TeensyROM) | Hardware | ✅  | ✅  | ✅ | ✅ | ✅  | ✅  | ✅ | ❌ | |
-| [USBSID-Pico](https://github.com/LouDnl/USBSID-Pico) | Hardware | ✅  | ✅  | ❌ | ✅   | ✅  | ✅  | ✅ | ❌ | |
+| [USBSID-Pico](https://github.com/LouDnl/USBSID-Pico) | Hardware | ✅  | ✅  | ❌ | ✅   | ✅  | ✅  | ✅ | ✅ | |
 | [Plogue chipsynth C64](https://www.plogue.com/products/chipsynth-c64.html) | Windows, macOS, Linux | ❌  | ✅  | ❌  | ❌ | ❌  | ❌  | ❌ | ❌ | |
 
 ### Hosts (Players / Senders)
