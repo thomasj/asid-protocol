@@ -31,6 +31,7 @@ Hardware or software that receives ASID messages and renders SID audio.
 | [Twisted Electrons TherapSID](https://www.twistedelectrons.com/therapsid) | Hardware | ❌  | ✅  | ❌ | ✅ | ❌ | ❌ | ❌ | ✅ | Needs Turbo MIDI interface for Multi-SID and OPL-FM|
 | [TeensyROM](https://github.com/SensoriumEmbedded/TeensyROM) | Hardware | ✅  | ✅  | ✅ | ✅ | ✅  | ✅  | ✅ | ❌ | |
 | [USBSID-Pico](https://github.com/LouDnl/USBSID-Pico) | Hardware | ✅  | ✅  | ❌ | ✅   | ✅  | ✅  | ✅ | ❌ | |
+| [Plogue chipsynth C64](https://www.plogue.com/products/chipsynth-c64.html) | Windows, macOS, Linux | ❌  | ✅  | ❌  | ❌ | ❌  | ❌  | ❌ | ❌ | |
 
 ### Hosts (Players / Senders)
 
@@ -44,6 +45,7 @@ Software that generates and transmits ASID messages.
 | [Elektron ASID-X](https://www.elektron.se/support-downloads/sidstation) | macOS | ❌   | ✅  | ❌  | ❌ | ❌ | ❌ | ❌ | ❌ | No longer developed, 32-bit Mac OS X only |
 | [Station 64](https://csdb.dk/release/?id=207214) | Commodore 64 | ❓  | ✅  | ❓ | ❌ | ❌  | ❌  | ❌ | ❌ | |
 | [Sidplay 5](https://github.com/Alexco500/sidplay5) | macOS | ❌  | ✅  | ❌ | ❌ | ❌  | ❌  | ❌ | ❌ | |
+| [Plogue chipsynth C64](https://www.plogue.com/products/chipsynth-c64.html) | Windows, macOS, Linux | ⚠️  | ✅  | ✅  | ❌ | ❌  | ❌  | ❌ | ❌ |  |
 
 ## Legend
 
