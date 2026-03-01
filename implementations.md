@@ -28,6 +28,7 @@ Hardware or software that receives ASID messages and renders SID audio.
 | Product | Type | 0x4C/0x4D Start/stop | 0x4E SID write | 0x4F Character | Multi-SID | 0x30 Timing | 0x31 Speed | 0x32 SID Type | 0x60 OPL-FM | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|
 | [Elektron SidStation](https://www.elektron.se/legacy) | Hardware | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | Original ASID implementation |
+| [MIDIbox SID](https://midibox.org) | Hardware | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Several variants exist - [sammichSID](https://wiki.midibox.org/sammichsid), MB6582 etc |
 | [Twisted Electrons TherapSID](https://www.twistedelectrons.com/therapsid) | Hardware | ❌  | ✅  | ❌ | ✅ | ❌ | ❌ | ❌ | ✅ | Needs Turbo MIDI interface for Multi-SID and OPL-FM|
 | [TeensyROM](https://github.com/SensoriumEmbedded/TeensyROM) | Hardware | ✅  | ✅  | ✅ | ✅ | ✅  | ✅  | ✅ | ❌ | |
 | [USBSID-Pico](https://github.com/LouDnl/USBSID-Pico) | Hardware | ✅  | ✅  | ❌ | ✅   | ✅  | ✅  | ✅ | ✅ | |
