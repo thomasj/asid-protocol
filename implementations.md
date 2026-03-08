@@ -41,7 +41,7 @@ Software that generates and transmits ASID messages.
 | Product | Platform | 0x4C/0x4D Start/stop | 0x4E SID write | 0x4F Character | Multi-SID | 0x30 Timing | 0x31 Speed | 0x32 SID Type | 0x60 OPL-FM | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|
 | [DeepSID](https://deepsid.chordian.net) | Browser | ❌  | ✅  | ❌ | ✅ | ❌ | ❌ | ❌ | ✅ | |
-| [SIDFactory II](https://blog.chordian.net/sf2) | Windows, macOS, Linux | ❌  | ✅  | ❌ | ❌ | ✅  | ✅  | ✅ | ❌ | Currently in separate branch |
+| [SIDFactory II](https://blog.chordian.net/sf2) | Windows, macOS, Linux | ❌  | ✅  | ❌ | ❌ | ✅  | ✅  | ✅ | ❌ | |
 | [Elektron ASID-XP](https://www.elektron.se/support-downloads/sidstation) | Windows | ✅   | ✅  | ✅  | ❌ | ❌ | ❌ | ❌ | ❌ | No longer developed |
 | [Elektron ASID-X](https://www.elektron.se/support-downloads/sidstation) | macOS | ❌   | ✅  | ❌  | ❌ | ❌ | ❌ | ❌ | ❌ | No longer developed, 32-bit Mac OS X only |
 | [Station 64](https://csdb.dk/release/?id=207214) | Commodore 64 | ❓  | ✅  | ❓ | ❌ | ❌  | ❌  | ❌ | ❌ | |
